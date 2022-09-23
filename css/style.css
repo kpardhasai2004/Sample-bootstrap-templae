@@ -1,0 +1,21 @@
+body {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+.navbar{
+    background-color: #6ba0c8;
+}
+
+
+.nav-item{
+    
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+
+
+
